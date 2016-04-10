@@ -1,3 +1,4 @@
 # UB-Course
-# Syllabus and detailed unit course for @UBInformatics
+
+Syllabus and detailed unit course for @UBInformatics
 
