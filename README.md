@@ -10,9 +10,10 @@ Available:
 - TIF208_DSP_Syllabus_v02_IPG.pdf
 - TIF311_Multimedia_Systems_SAP_IPG.pdf
 - TIF311_Multimedia_Systems_Syllabus_IPG.pdf
+- TIF207_Data_Communication_SAP_v02_IPG.pdf (20160414)
+- TIF207_Data_Communication_Syllabus_v02_IPG.pdf (20160414)
 
 In Writings / on progress:
-- Data Communication (Syll/SAP)
 - Image Processing (Syll/SAP)
 - Calculus 01 (SAP)
 
